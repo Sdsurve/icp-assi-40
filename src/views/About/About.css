@@ -1,0 +1,8 @@
+.About-container{
+    text-align: center;
+    justify-content: center;
+    font-size: 100px;
+    background-color: antiquewhite;
+    margin-top: 100px;
+    display: block;
+}

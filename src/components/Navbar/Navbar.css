@@ -1,0 +1,19 @@
+.Navbar{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    height: auto;
+
+}
+.nav-links{
+    padding: 10px;
+    text-decoration: none;
+    background-color: hotpink;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 5px;
+}
